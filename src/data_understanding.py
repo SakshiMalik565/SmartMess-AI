@@ -4,9 +4,9 @@ import pandas as pd
 # Load Dataset
 df = pd.read_csv("data/raw/smartmess_dataset.csv")
 
-print("=" * 60)
+print("*" * 60)
 print("SMARTMESS AI - DATA UNDERSTANDING")
-print("=" * 60)
+print("*" * 60)
 
 # Dataset Shape
 
